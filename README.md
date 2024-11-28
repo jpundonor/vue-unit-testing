@@ -1,29 +1,19 @@
 # Prueba Vue + Unit Testing
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is deployed on Vercel. You can view it [here](https://vue-unit-testing.web.app/).
 
-## Recommended IDE Setup
+### Install dependencies
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
+### Run tests
 
-```sh
-npm run dev
-```
+npm run test:unit 
 
-### Compile and Minify for Production
+## Successful tests
 
-```sh
-npm run build
-```
+The tests were successfully executed. Here is the result:
+
+![Tests passing](./src/assets/testingPass.png)
+
+
